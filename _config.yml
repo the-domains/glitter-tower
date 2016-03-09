@@ -1,7 +1,7 @@
 name: Glitter Tower
 favicon: null
-layout_spectrum: 0.9272888584528118
-typography_spectrum: 0.19785270560532808
+layout_spectrum: 0
+typography_spectrum: 0.77336
 title: Glitter Tower
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.48862562235444784
-  lightness: 0.5525778273586184
-  saturation: 0.18441215809434652
-  rhythmicContrast: 0.7403390954714268
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
